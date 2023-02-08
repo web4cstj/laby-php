@@ -3,7 +3,7 @@
 <svg width="640" height="640" version="1.1" viewBox="0 0 640 640" xmlns="http://www.w3.org/2000/svg">
  <view id="p0" viewBox="  0   0 160 160"/>
  <view id="p1" viewBox="  0 480 160 160"/>
- <view id="p2" viewBox="160 480 160 160"/>
+ <view id="p2" viewBox="160 0 160 160"/>
  <view id="p3" viewBox="160 480 160 160"/>
  <view id="p4" viewBox="  0 160 160 160"/>
  <view id="p5" viewBox="  0 320 160 160"/>
