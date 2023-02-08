@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg width="640" height="640" version="1.1" viewBox="0 0 640 640" xmlns="http://www.w3.org/2000/svg">
+ <view id="p0" viewBox="  0   0 160 160"/>
+ <view id="p1" viewBox="  0 480 160 160"/>
+ <view id="p2" viewBox="160 480 160 160"/>
+ <view id="p3" viewBox="160 160 160 160"/>
+ <view id="p4" viewBox="  0 160 160 160"/>
+ <view id="p5" viewBox="  0 320 160 160"/>
+ <view id="p6" viewBox="160 160 160 160"/>
+ <view id="p7" viewBox="160 320 160 160"/>
+ <view id="p8" viewBox="480   0 160 160"/>
+ <view id="p9" viewBox="480 480 160 160"/>
+ <view id="p10" viewBox="320   0 160 160"/>
+ <view id="p11" viewBox="320 480 160 160"/>
+ <view id="p12" viewBox="480 160 160 160"/>
+ <view id="p13" viewBox="480 320 160 160"/>
+ <view id="p14" viewBox="320 160 160 160"/>
+ <view id="p15" viewBox="320 320 160 160"/>
+ <g transform="translate(-10,-10)">
+  <path id="path2" d="m70 50h40c11.08 0 20 8.92 20 20v40c0 11.08-8.92 20-20 20h-40c-11.08 0-20-8.92-20-20v-40c0-11.08 8.92-20 20-20zm160 0h360c11.08 0 20 8.92 20 20v40c0 11.08-8.92 20-20 20h-360c-11.08 0-20-8.92-20-20v-40c0-11.08 8.92-20 20-20zm-160 160h40c11.08 0 20 8.92 20 20v360c0 11.08-8.92 20-20 20h-40c-11.08 0-20-8.92-20-20v-360c0-11.08 8.92-20 20-20zm160 0h360c11.08 0 20 8.92 20 20v360c0 11.08-8.92 20-20 20h-360c-11.08 0-20-8.92-20-20v-360c0-11.08 8.92-20 20-20zm60 80v80h80v-80zm160 0v80h80v-80zm-160 160v80h80v-80zm160 0v80h80v-80z" fill="#008000"/>
+ </g>
+</svg>

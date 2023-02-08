@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg width="640" height="640" version="1.1" viewBox="0 0 640 640" xmlns="http://www.w3.org/2000/svg">
+    <view viewBox="  0   0 160 160" id="p0" />
+    <view viewBox="  0 480 160 160" id="p1" />
+    <view viewBox="160 480 160 160" id="p2" />
+    <view viewBox="160 160 160 160" id="p3" />
+    <view viewBox="  0 160 160 160" id="p4" />
+    <view viewBox="  0 320 160 160" id="p5" />
+    <view viewBox="160 160 160 160" id="p6" />
+    <view viewBox="160 320 160 160" id="p7" />
+    <view viewBox="480   0 160 160" id="p8" />
+    <view viewBox="480 480 160 160" id="p9" />
+    <view viewBox="320   0 160 160" id="p10" />
+    <view viewBox="320 480 160 160" id="p11" />
+    <view viewBox="480 160 160 160" id="p12" />
+    <view viewBox="480 320 160 160" id="p13" />
+    <view viewBox="320 160 160 160" id="p14" />
+    <view viewBox="320 320 160 160" id="p15" />
+    <g id="maze">
+        <path d="m-10-10v660h660v-660zm30 30h120v120h-120zm160 0h440v120h-440zm-160 160h120v440h-120zm160 0h440v440h-440zm120 120v40h40v-40zm160 0v40h40v-40zm-160 160v40h40v-40zm160 0v40h40v-40z" />
+    </g>
+</svg>
