@@ -14,7 +14,7 @@ var_dump($maze->toArray());
     <title>Document</title>
 </head>
 <body>
-    <!-- <div><img src="img/maze2.svg#p0" alt=""></div> -->
+  <!-- <div><img src="img/maze2.svg#p0" alt=""></div> -->
   <!-- <object data="img/maze2.svg#p0" type=""></object>   -->
 </body>
 </html>
