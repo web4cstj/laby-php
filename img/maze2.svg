@@ -4,7 +4,7 @@
     <view viewBox="  0   0 160 160" id="p0" />
     <view viewBox="  0 480 160 160" id="p1" />
     <view viewBox="160 480 160 160" id="p2" />
-    <view viewBox="160 160 160 160" id="p3" />
+    <view viewBox="160 480 160 160" id="p3" />
     <view viewBox="  0 160 160 160" id="p4" />
     <view viewBox="  0 320 160 160" id="p5" />
     <view viewBox="160 160 160 160" id="p6" />
